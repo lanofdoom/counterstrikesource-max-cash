@@ -7,7 +7,7 @@ static Handle g_enabled;
 
 public const Plugin myinfo = {
     name = "Max Cash", author = "LAN of DOOM",
-    description = "Grants max cash on spawn", version = "1.0",
+    description = "Grants max cash on spawn", version = "1.0.0",
     url = "https://github.com/lanofdoom/counterstrikesource-max-cash"};
 
 void OnSpawn(Handle event, const char[] unused_name,
