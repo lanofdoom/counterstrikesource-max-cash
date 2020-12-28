@@ -14,4 +14,8 @@ curl $tools -o $tmp_dir/tools.tar.gz
 tar -xf $tmp_dir/tools.tar.gz -C $tmp_dir
 $tmp_dir/addons/sourcemod/scripting/spcomp max_cash.sp
 
-echo created max_cash.smx
+mkdir build
+mv max_cash.smx build/max_cash.smx
+cp max_cash.sp build/max_cash.sp
+
+echo created build/max_cash.smx
