@@ -1,7 +1,7 @@
 ## Releases
 
-* [Latest](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/latest/max_cash.smx) (1.0.0)
-* [Nightly](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/nightly/max_cash.smx)
+* [Latest](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/latest/max_cash.smx) ([Source](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/latest/max_cash_source.tar.gz)) (1.0.0)
+* [Nightly](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/nightly/max_cash.smx) ([Source](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/nightly/max_cash_source.tar.gz)) 
 
 ## Installation
 Copy ``max_cash.smx`` to your server's ``css/cstrike/addons/sourcemod/plugins`` directory.
@@ -11,5 +11,5 @@ Copy ``max_cash.smx`` to your server's ``css/cstrike/addons/sourcemod/plugins`` 
 
 ## Version History
 
-### 1.0.0 ([Download](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/v1.0.0/max_cash.smx))
+### 1.0.0 ([Download](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/v1.0.0/max_cash.smx)) ([Source](https://lanofdoom.github.io/counterstrikesource-max-cash/releases/v1.0.0/max_cash_source.tar.gz)) 
 * Initial Release
