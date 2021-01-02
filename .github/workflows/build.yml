@@ -25,4 +25,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
           FOLDER: build
-          TARGET_FOLDER: releases/latest
+          TARGET_FOLDER: releases/nightly
