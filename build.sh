@@ -16,6 +16,6 @@ $tmp_dir/addons/sourcemod/scripting/spcomp max_cash.sp
 
 mkdir build
 mv max_cash.smx build/max_cash.smx
-cp max_cash.sp build/max_cash.sp
+tar -czvf build/max_cash_source.tar.gz build.sh max_cash.sp
 
 echo created build/max_cash.smx
