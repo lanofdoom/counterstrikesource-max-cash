@@ -2,8 +2,8 @@
 
 #define MAX_CASH_AMOUNT 16000
 
-static int g_money_offset = 0;
-static Handle g_enabled;
+int g_money_offset = 0;
+Handle g_enabled;
 
 public const Plugin myinfo = {
     name = "Max Cash", author = "LAN of DOOM",
