@@ -17,9 +17,9 @@ $tmp_dir/addons/sourcemod/scripting/spcomp max_cash.sp
 mkdir -p build/addons/sourcemod/plugins
 mv max_cash.smx build/addons/sourcemod/plugins/max_cash.smx
 cd build
-tar -czvf max_cash.tar.gz addons
+tar -czvf lan_of_doom_max_cash addons
 rm -rf addons
 cd ..
 tar -czvf build/max_cash_source.tar.gz build.sh max_cash.sp LICENSE README.md
 
-echo created build/max_cash.tar.gz
+echo created build/lan_of_doom_max_cash
