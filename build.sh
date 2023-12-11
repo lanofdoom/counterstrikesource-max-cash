@@ -20,6 +20,6 @@ cd build
 tar -czvf lan_of_doom_max_cash addons
 rm -rf addons
 cd ..
-tar -czvf build/max_cash_source.tar.gz build.sh max_cash.sp LICENSE README.md
+tar -czvf build/lan_of_doom_max_cash_source.tar.gz build.sh max_cash.sp LICENSE README.md
 
 echo created build/lan_of_doom_max_cash
